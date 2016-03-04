@@ -1,3 +1,8 @@
+---
+layout: post
+title: VMap post
+---
+
 #VMAP高清卫图和三维地形
 ##VMAP高清卫图
 
